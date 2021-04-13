@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       Clone Youtube com NextJs + Material Ui
-      <Button color="primary">Hello World</Button>
+      <Button variant="contained" color="primary">Hello World</Button>
     </div>
   )
 
